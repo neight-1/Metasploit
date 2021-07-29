@@ -1,6 +1,6 @@
 # Metasploit
 Install Metasploit Only One Click
 
-# T-Dynamous
+# T-Dynamos
 
 All Creadit :- Ansh Dadwal
