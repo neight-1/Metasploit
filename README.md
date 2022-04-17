@@ -59,7 +59,7 @@
      
 
 
--   <a href="https://github.com/Elliot290/Metasploit/blob/main/Commands.txt">View Full Detail CMD</a>
+-   <a href="https://github.com/Elliot290/Metasploit/blob/main/Commands.txt">View Full CMD Detailed</a>
 
 
 
